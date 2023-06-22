@@ -1,3 +1,4 @@
+import React from 'react';
 import ProductView from "./components/ProductView";
 
 // Eventually this should be data loaded from a service, for now just fake it
